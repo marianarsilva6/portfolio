@@ -19,7 +19,6 @@
     }
     a {
       display: inline-block;
-      margin-top: 20px;
       padding: 12px 22px;
       background: #7c6cff;
       color: white;
@@ -28,14 +27,13 @@
     }
 
 .navbar {
-  background-color: #000000;
   display: flex;
   align-items: center;
-  padding: 10px 20px;
   width: 100%;
   max-width: 1400px;
   max-height: 70px;
 }
+
 .nav-links {
   display: flex;
   list-style: none;
